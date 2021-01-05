@@ -1,1 +1,0 @@
-self.__SSG_MANIFEST=new Set(["\u002F","\u002Fmutual_funds\u002F[mf]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
